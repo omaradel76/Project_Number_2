@@ -1,2 +1,2 @@
-# second_project
-second project width css and html
+# Project_Number_2
+project link: https://omaradel76.github.io/Project_Number_2/
